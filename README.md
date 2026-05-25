@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am an AI/ML Engineer and Software Developer with a focus on building scalable, intelligent systems. Currently pursuing my MCA in AI & ML, I specialize in transforming complex data into actionable software solutions. My work bridges the gap between academic theory and production-ready enterprise applications.
+AI/ML Engineer and Software Developer dedicated to building scalable, intelligent systems. Currently completing my MCA in AI & ML, I specialize in architecting data-driven software solutions. I bridge the gap between academic research and production-ready enterprise applications by focusing on clean code, modular design, and efficient deployment. Passionate about leveraging Generative AI and MLOps to solve real-world problems.
 
 ---
 
