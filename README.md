@@ -11,7 +11,8 @@
 ---
 
 ## 👨‍💻 About Me
-AI/ML Engineer and Software Developer dedicated to building scalable, intelligent systems. Currently completing my MCA in AI & ML, I specialize in architecting data-driven software solutions. I bridge the gap between academic research and production-ready enterprise applications by focusing on clean code, modular design, and efficient deployment. Passionate about leveraging Generative AI and MLOps to solve real-world problems.
+AI/ML Engineer | Software Developer | MCA (AI & ML)
+I build intelligent systems that matter. Specializing in Generative AI, RAG, and scalable backend architecture, I transform academic potential into production-ready software. I am committed to high-performance engineering—focusing on modular design, MLOps, and data-driven problem solving to deliver impactful solutions in fast-paced environments.
 
 ---
 
