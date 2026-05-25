@@ -27,16 +27,15 @@ I am an AI/ML Engineer and Software Developer with a focus on building scalable,
 ---
 
 ## 🚀 Key Projects
-* [**DocuMind (RAG Assistant)**](https://github.com/imarpitajaiswal/documind): An LLM-powered document query system using vector databases to eliminate hallucinations in document analysis.
-* [**SkillMatch-AI**](https://github.com/imarpitajaiswal/skillmatch-ai): A sophisticated resume analyzer utilizing TF-IDF and Cosine Similarity to optimize candidate alignment with job descriptions.
-* [**Smart-Expense-Tracker**](https://github.com/imarpitajaiswal/smart-expense-tracker): A performance-optimized financial tool capable of processing 500+ monthly transactions with 99% data integrity.
+* [**DocuMind (RAG Assistant)**](https://github.com/imarpitajaiswal/Intelligent-Document-Assistant): An LLM-powered document query system using vector databases to eliminate hallucinations in document analysis.
+* [**SkillMatch-AI**](https://github.com/imarpitajaiswal/Skill-Matcher-AI): A sophisticated resume analyzer utilizing TF-IDF and Cosine Similarity to optimize candidate alignment with job descriptions.
+* [**Smart-Expense-Tracker**](https://github.com/imarpitajaiswal/Expense-Tracker): A performance-optimized financial tool capable of processing 500+ monthly transactions with 99% data integrity.
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imarpitajaiswal&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarpitajaiswal&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imarpitajaiswal&theme=radical" />
 </p>
 
 ---
