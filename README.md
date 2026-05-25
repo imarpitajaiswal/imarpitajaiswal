@@ -1,123 +1,53 @@
-<h1 align="center">Hi 👋, I'm Arpita Jaiswal</h1>
-
-<h3 align="center">
-AI & ML Enthusiast | Python Developer | Aspiring AI Engineer
-</h3>
+<h1 align="center">Arpita Jaiswal</h1>
+<h3 align="center">AI & ML Engineer | Software Developer | Python Specialist</h3>
 
 <p align="center">
-Passionate about building intelligent applications using Python, AI/ML, and modern backend technologies.
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 About Me
-
-🎓 MCA Student specializing in Artificial Intelligence & Machine Learning  
-💻 Passionate about AI Engineering, Backend Development, and Intelligent Systems  
-🌱 Currently learning Generative AI, Agentic AI, and scalable AI application development  
-⚡ Strong interest in solving real-world problems using technology  
+## 👨‍💻 About Me
+I am an AI/ML Engineer and Software Developer with a focus on building scalable, intelligent systems. Currently pursuing my MCA in AI & ML, I specialize in transforming complex data into actionable software solutions. My work bridges the gap between academic theory and production-ready enterprise applications.
 
 ---
 
-# 🛠 Tech Stack
-
-## 👨‍💻 Programming Languages
-- Python
-- JavaScript
-- SQL
-
-## 🤖 AI / ML
-- Machine Learning
-- AI Chatbots
-- Generative AI
-- NLP Basics
-
-## 🌐 Web Development
-- HTML
-- CSS
-- Flask
-- REST APIs
-
-## 🗄 Databases
-- MySQL
-- DBMS
-- SQLite
-
-## ⚙ Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+## 🛠 Technical Expertise
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Languages** | Python (Advanced), SQL, JavaScript |
+| **AI/ML Stack** | LangChain, Scikit-learn, NLP, Generative AI, RAG Systems |
+| **Backend & Web** | FastAPI, Flask, REST APIs, Node.js |
+| **Infrastructure** | Git, Docker, AWS (EC2/S3), Linux |
+| **Databases** | MySQL, SQLite, ChromaDB (Vector Search) |
 
 ---
 
-# 📌 Featured Projects
-
-## 🔹 AI Chatbot Assistant
-### 🚀 Features
-- Interactive AI chatbot built using Python
-- Responds intelligently to user queries
-- Command-line conversational interface
-- Beginner-level NLP implementation
-
-### 🛠 Tech Stack
-Python • NLP • APIs
+## 🚀 Key Projects
+* [**DocuMind (RAG Assistant)**](https://github.com/imarpitajaiswal/documind): An LLM-powered document query system using vector databases to eliminate hallucinations in document analysis.
+* [**SkillMatch-AI**](https://github.com/imarpitajaiswal/skillmatch-ai): A sophisticated resume analyzer utilizing TF-IDF and Cosine Similarity to optimize candidate alignment with job descriptions.
+* [**Smart-Expense-Tracker**](https://github.com/imarpitajaiswal/smart-expense-tracker): A performance-optimized financial tool capable of processing 500+ monthly transactions with 99% data integrity.
 
 ---
 
-## 🔹 Smart Expense Tracker
-### 🚀 Features
-- Add and manage daily expenses
-- Categorize expense descriptions
-- Calculate total expenses automatically
-- User-friendly CLI-based interface
-
-### 🛠 Tech Stack
-Python • File Handling • Data Processing
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imarpitajaiswal&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarpitajaiswal&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-# 📊 What I Do
-
-✅ AI & ML Projects  
-✅ Python Development  
-✅ Backend Development  
-✅ Database Management  
-✅ Problem Solving & DSA  
-✅ Building Real-World Applications  
+## 📬 Let's Connect
+* **LinkedIn**: [linkedin.com/in/imarpitajaiswal](https://www.linkedin.com/in/imarpitajaiswal)
+* **Email**: jaiswalarpita222@gmail.com
+* **Portfolio**: Currently building out my engineering case studies.
 
 ---
 
-# 🌱 Currently Exploring
-
-- Generative AI
-- Agentic AI Systems
-- LangChain
-- FastAPI
-- AI Automation
-- Scalable Backend Systems
-
----
-
-# 📈 GitHub Goals for 2026
-
-🚀 Build production-level AI projects  
-🚀 Contribute consistently on GitHub  
-🚀 Develop industry-ready applications  
-🚀 Strengthen Data Structures & Algorithms  
-
----
-
-# 📫 Connect With Me
-
-🔗 LinkedIn  
-www.linkedin.com/in/imarpitajaiswal/
-
-💻 GitHub  
-https://github.com/imarpitajaiswal
-
----
-
-# ⚡ Fun Fact
-
-I enjoy transforming innovative AI ideas into practical applications that solve real-world problems 🚀
+<p align="center">
+  <em>"Turning data into intelligence, one commit at a time."</em>
+</p>
