@@ -44,7 +44,7 @@ I build intelligent systems that matter. Specializing in Generative AI, RAG, and
 ## 📬 Let's Connect
 * **LinkedIn**: [linkedin.com/in/imarpitajaiswal](https://www.linkedin.com/in/imarpitajaiswal)
 * **Email**: jaiswalarpita222@gmail.com
-* **Portfolio**: Currently building out my engineering case studies.
+* **Portfolio**: [arpita-portfolio-puce.vercel.app](https://arpita-portfolio-puce.vercel.app)
 
 ---
 
