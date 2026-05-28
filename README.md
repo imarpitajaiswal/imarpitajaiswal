@@ -1,42 +1,51 @@
 <h1 align="center">Arpita Jaiswal</h1>
-<h3 align="center">AI & ML Engineer | Software Developer | Python Specialist</h3>
+<h3 align="center">AI Engineer | Generative AI & Backend Architecture</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-AI/ML Engineer | Software Developer | MCA (AI & ML)
-I build intelligent systems that matter. Specializing in Generative AI, RAG, and scalable backend architecture, I transform academic potential into production-ready software. I am committed to high-performance engineering—focusing on modular design, MLOps, and data-driven problem solving to deliver impactful solutions in fast-paced environments.
+I am an AI Engineer specializing in moving Generative AI from proof-of-concept to production. My core focus is architecting scalable backend systems and intelligent pipelines that leverage Large Language Models (LLMs) to solve complex enterprise challenges.
+
+I don't just call APIs; I design robust Retrieval-Augmented Generation (RAG) systems, orchestrate autonomous multi-agent workflows, and integrate vector databases within containerized cloud environments. 
+
+- 🔭 **Currently building:** An asynchronous multi-agent orchestration layer using LangGraph and FastAPI.
+- 🌱 **Currently exploring:** Advanced LLM fine-tuning (QLoRA) and edge-case hallucination mitigation.
+- 🎓 **Education:** Master of Computer Applications (AI & ML) | Certified in SAP Enterprise Architecture.
 
 ---
 
-## 🛠 Technical Expertise
+## 🛠 Enterprise Tech Stack
 | Domain | Technologies |
 | :--- | :--- |
-| **Core Languages** | Python (Advanced), SQL, JavaScript |
-| **AI/ML Stack** | LangChain, Scikit-learn, NLP, Generative AI, RAG Systems |
-| **Backend & Web** | FastAPI, Flask, REST APIs, Node.js |
-| **Infrastructure** | Git, Docker, AWS (EC2/S3), Linux |
-| **Databases** | MySQL, SQLite, ChromaDB (Vector Search) |
+| **LLM & Agentic AI** | LangChain, LangGraph, CrewAI, LlamaIndex, OpenAI/Llama 3 |
+| **Data & Vector DBs** | Pinecone, Qdrant, ChromaDB, Semantic Chunking |
+| **Backend Architecture** | Python 3.10+ (Async), FastAPI, WebSockets, Celery |
+| **Cloud & MLOps** | Docker, AWS (EC2/Bedrock), GitHub Actions (CI/CD) |
 
 ---
 
-## 🚀 Key Projects
-* [**DocuMind (RAG Assistant)**](https://github.com/imarpitajaiswal/Intelligent-Document-Assistant): An LLM-powered document query system using vector databases to eliminate hallucinations in document analysis.
-* [**SkillMatch-AI**](https://github.com/imarpitajaiswal/Skill-Matcher-AI): A sophisticated resume analyzer utilizing TF-IDF and Cosine Similarity to optimize candidate alignment with job descriptions.
-* [**Smart-Expense-Tracker**](https://github.com/imarpitajaiswal/Expense-Tracker): A performance-optimized financial tool capable of processing 500+ monthly transactions with 99% data integrity.
+## 🚀 Featured Engineering Projects
+
+* 🧠 [**Enterprise Agentic RAG Platform**](https://github.com/imarpitajaiswal/Enterprise-Agentic-RAG) 
+  *Architected an async conversational AI backend using FastAPI and WebSockets. Implemented a LangGraph multi-agent layer and Pinecone vector database to route queries and reduce hallucinations.*
+* 🔎 [**AI-Powered Talent Acquisition Engine**](https://github.com/imarpitajaiswal/AI-Talent-Engine) 
+  *Engineered an end-to-end semantic search engine for processing high-volume unstructured resumes using LlamaIndex, Qdrant, and background task processing via Celery.*
+* ✈️ [**Autonomous Multi-Agent Travel Orchestrator**](https://github.com/imarpitajaiswal/Multi-Agent-Travel-Orchestrator) 
+  *Developed a distributed AI system utilizing CrewAI to deploy specialized, interacting autonomous agents that interface with external REST APIs for dynamic itinerary generation.*
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imarpitajaiswal&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imarpitajaiswal&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -47,7 +56,6 @@ I build intelligent systems that matter. Specializing in Generative AI, RAG, and
 * **Portfolio**: [arpita-portfolio-puce.vercel.app](https://arpita-portfolio-puce.vercel.app)
 
 ---
-
 <p align="center">
-  <em>"Turning data into intelligence, one commit at a time."</em>
+  <em>Architecting intelligence. Shipping to production.</em>
 </p>
