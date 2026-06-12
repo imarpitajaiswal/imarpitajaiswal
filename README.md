@@ -139,8 +139,11 @@ https://github.com/imarpitajaiswal/docuMind
 
 ## 📬 Let's Connect
 
-**LinkedIn**
-https://www.linkedin.com/in/imarpitajaiswal
+**X**
+https://x.com/imarpitajaiswal
+
+**Email**
+[jaiswalarpita222@gmail.com](mailto:jaiswalarpita222@gmail.com)
 
 **GitHub**
 https://github.com/imarpitajaiswal
@@ -148,8 +151,8 @@ https://github.com/imarpitajaiswal
 **Portfolio**
 https://arpita-portfolio-puce.vercel.app
 
-**Email**
-[jaiswalarpita222@gmail.com](mailto:jaiswalarpita222@gmail.com)
+**LinkedIn**
+https://www.linkedin.com/in/imarpitajaiswal
 
 ---
 
