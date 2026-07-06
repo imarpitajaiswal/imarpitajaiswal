@@ -226,23 +226,6 @@ https://github.com/imarpitajaiswal/Skill-Matcher-AI
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imarpitajaiswal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imarpitajaiswal&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imarpitajaiswal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imarpitajaiswal&theme=tokyonight" />
-</p>
-
----
-
 # Professional Interests
 
 * Enterprise AI Engineering
