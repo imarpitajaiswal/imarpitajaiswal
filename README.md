@@ -1,269 +1,245 @@
 <h1 align="center">Arpita Jaiswal</h1>
 
 <h3 align="center">
-AI Engineer • Enterprise AI Solutions • Agentic AI Systems • Generative AI
+AI Engineer • Generative AI • Agentic AI • Intelligent Automation
 </h3>
 
 <p align="center">
-Building enterprise-grade AI systems that automate workflows, augment decision-making, and transform business operations through Agentic AI, Multi-Agent Architectures, and Retrieval-Augmented Generation (RAG).
+Building intelligent AI applications powered by <strong>Large Language Models (LLMs)</strong>,
+<strong>Agentic AI</strong>, <strong>Retrieval-Augmented Generation (RAG)</strong>, and modern Python
+backends to automate workflows, enhance knowledge discovery, and support intelligent decision-making.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imarpitajaiswal&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+  <a href="https://github.com/imarpitajaiswal">
+    <img src="https://komarev.com/ghpvc/?username=imarpitajaiswal&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
+  </a>
 
 ---
 
-# Executive Summary
 
-I am an AI Engineer with a strong focus on building enterprise-grade AI applications that combine:
+## 👋 About Me
 
-* Agentic AI Systems
-* Multi-Agent Architectures
-* Retrieval-Augmented Generation (RAG)
-* LLM-Powered Automation
-* AI Workflow Orchestration
-* Cloud-Native Backend Engineering
+I'm an AI Engineer passionate about building intelligent software that combines **Large Language Models (LLMs)**, **Agentic AI**, **Multi-Agent Systems**, **Retrieval-Augmented Generation (RAG)**, and **Machine Learning** to solve real-world problems. I enjoy exploring how modern AI can transform traditional software into systems capable of reasoning, retrieving knowledge, automating workflows, and supporting better decision-making.
 
-My work centers around designing intelligent systems that solve real business challenges in areas such as enterprise operations, document intelligence, knowledge management, talent assessment, and workflow automation.
+My work focuses on developing practical, production-inspired AI applications across domains such as **document intelligence**, **semantic search**, **enterprise knowledge management**, **computer vision**, **workflow automation**, **technical interview platforms**, and **intelligent business solutions**. Every project is designed to strengthen my understanding of scalable AI engineering while applying modern software development practices.
 
-I hold a Master of Computer Applications (MCA) in Artificial Intelligence & Machine Learning and actively build production-style AI systems inspired by real-world enterprise use cases.
+I enjoy working across the complete AI application stack—from integrating foundation models and building Retrieval-Augmented Generation (RAG) pipelines to developing FastAPI backends, designing REST APIs, implementing vector databases, orchestrating AI workflows with LangChain and LangGraph, and deploying applications using Docker and cloud-native technologies.
+
+I hold a **Master of Computer Applications (MCA)** with a specialization in **Artificial Intelligence & Machine Learning**. I'm continuously expanding my knowledge in **LLMOps**, **Model Context Protocol (MCP)**, **AI evaluation**, **multi-agent collaboration**, and **enterprise AI architectures**, while building projects that demonstrate practical engineering skills and modern AI development practices.
+
+I believe the most impactful AI solutions combine strong software engineering principles with responsible AI development, creating applications that are scalable, maintainable, and capable of delivering meaningful value in real-world environments.
 
 ---
 
-# Enterprise AI Portfolio
+# Featured Projects
 
-## 🚀 Enterprise Agentic AI Operating System (EAIOS)
+## 🚀 EAIOS — Enterprise Agentic AI Operating System
 
-A modular operating system for enterprise AI agents capable of planning, reasoning, coordinating, and executing complex business workflows.
+A modular multi-agent orchestration framework designed to demonstrate intelligent workflow planning, reasoning, tool execution, and persistent memory management. The platform coordinates specialized AI agents to collaboratively solve complex business tasks through structured workflows and autonomous decision-making.
 
-### Business Challenge
+**Key Highlights**
+- Multi-Agent Collaboration
+- Workflow Orchestration
+- Tool Calling
+- Stateful Memory
+- Modular Agent Architecture
 
-Organizations often struggle to scale AI initiatives because agents operate independently without centralized orchestration.
+**Tech Stack:** LangGraph • FastAPI • Python • Google Gemini • Agentic AI
 
-### Solution
-
-EAIOS provides a unified orchestration framework enabling intelligent agents to collaborate across business functions while maintaining scalability and governance.
-
-### Architecture Highlights
-
-* Agent Orchestration Engine
-* Planning & Reasoning Layer
-* Tool Integration Framework
-* Memory Management Layer
-* Workflow Execution Engine
-
-### Business Impact
-
-* Reusable enterprise AI infrastructure
-* Faster AI solution development
-* Improved maintainability
-* Foundation for autonomous enterprise workflows
-
-🔗 Repository:
-
+**Repository:**  
 https://github.com/imarpitajaiswal/eaios-orchestration-engine
 
 ---
 
 ## 🏢 Enterprise ERP Reconciliation Swarm
 
-Multi-Agent AI platform designed to automate ERP reconciliation processes and exception management workflows.
+A multi-agent AI system that simulates ERP reconciliation by autonomously identifying transaction discrepancies, analyzing exceptions, and generating actionable recommendations. The project demonstrates how intelligent agents can automate repetitive financial and operational workflows.
 
-### Business Challenge
+**Key Highlights**
+- AI-driven Exception Analysis
+- Multi-Agent Workflow Engine
+- Financial Data Reconciliation
+- Autonomous Decision Support
+- RESTful Backend APIs
 
-Manual ERP reconciliation is time-consuming, error-prone, and resource-intensive.
+**Tech Stack:** LangGraph • FastAPI • PostgreSQL • Python
 
-### Solution
-
-Specialized AI agents collaborate to identify discrepancies, investigate exceptions, and generate actionable recommendations.
-
-### Architecture Highlights
-
-* Multi-Agent Workflow Engine
-* LangGraph Orchestration
-* FastAPI Backend
-* PostgreSQL Persistence Layer
-* AI-Powered Exception Analysis
-
-### Business Impact
-
-* Reduced manual effort
-* Faster reconciliation cycles
-* Improved operational efficiency
-* Enhanced decision support
-
-🔗 Repository:
-
+**Repository:**  
 https://github.com/imarpitajaiswal/enterprise-erp-reconciliation-swarm
 
 ---
 
-## 🎯 AI Talent Engine
+## 📄 Enterprise Document Intelligence
 
-AI-powered technical interview simulator and candidate assessment platform.
+An AI-powered document processing platform that combines OCR, Retrieval-Augmented Generation (RAG), and Large Language Models to extract, understand, and retrieve information from business documents. Designed to simplify enterprise knowledge discovery through natural language interactions.
 
-### Business Challenge
+**Key Highlights**
+- OCR-based Document Processing
+- Intelligent Information Extraction
+- Semantic Search
+- Retrieval-Augmented Generation (RAG)
+- AI-powered Question Answering
 
-Organizations require scalable and consistent technical evaluation processes.
+**Tech Stack:** OCR • Gemini • LangChain • FastAPI • Vector Search
 
-### Solution
-
-AI-generated interviews, automated candidate evaluation, and structured feedback generation.
-
-### Business Impact
-
-* Improved hiring efficiency
-* Consistent candidate assessment
-* Faster screening workflows
-* Better hiring insights
-
-🔗 Repository:
-
-https://github.com/imarpitajaiswal/ai-talent-engine
+**Repository:**  
+https://github.com/imarpitajaiswal/enterprise-doc-intelligence
 
 ---
 
-## 📚 Ask Multiple PDFs
+## 🌍 Enterprise Multilingual Search
 
-Enterprise document intelligence system powered by Retrieval-Augmented Generation.
+A multilingual semantic search engine enabling users to retrieve relevant information across documents written in different languages using embeddings, vector search, and natural language understanding. Designed to improve global knowledge accessibility.
 
-### Business Challenge
+**Key Highlights**
+- Cross-Language Information Retrieval
+- Semantic Search
+- Vector Embeddings
+- Multilingual NLP
+- Enterprise Knowledge Search
 
-Critical knowledge is often distributed across multiple documents and repositories.
+**Tech Stack:** Python • NLP • Embeddings • Vector Search • LLMs
 
-### Solution
-
-Semantic search and AI-powered question answering across multiple PDFs using vector retrieval and LLM reasoning.
-
-### Business Impact
-
-* Faster knowledge discovery
-* Improved information accessibility
-* Reduced research effort
-* Enhanced productivity
-
-🔗 Repository:
-
-https://github.com/imarpitajaiswal/ask-multiple-pdfs
+**Repository:**  
+https://github.com/imarpitajaiswal/enterprise-multilingual-search
 
 ---
 
-## 🧠 Enterprise Agentic RAG Platform
+## 🚚 Sovereign Logistics Architecture
 
-Production-grade knowledge intelligence platform built using RAG, vector databases, and agent orchestration.
+An AI-powered logistics intelligence platform that models supply chain planning, shipment workflows, and operational decision support. The project demonstrates how AI can optimize logistics processes through intelligent automation and scalable system design.
 
-### Business Impact
+**Key Highlights**
+- Supply Chain Intelligence
+- Workflow Automation
+- Route & Process Optimization
+- Decision Support
+- Scalable AI Architecture
 
-* Enterprise knowledge retrieval
-* Context-aware AI responses
-* Scalable information access
-* Intelligent document exploration
+**Tech Stack:** Python • FastAPI • AI Workflows • Machine Learning
 
-🔗 Repository:
-
-https://github.com/imarpitajaiswal/enterprise-agentic-rag
-
----
-
-## 📄 SkillMatch AI
-
-AI-powered career intelligence platform for resume optimization and job-role alignment.
-
-### Business Impact
-
-* ATS optimization
-* Resume-job alignment analysis
-* Career intelligence insights
-* Personalized improvement recommendations
-
-🔗 Repository:
-
-https://github.com/imarpitajaiswal/Skill-Matcher-AI
+**Repository:**  
+https://github.com/imarpitajaiswal/sovereign-logistics-architecture
 
 ---
 
-# AI Engineering Expertise
+## 📹 IoT Edge Analytics
 
-| Domain              | Expertise                                                      |
-| ------------------- | -------------------------------------------------------------- |
-| Agentic AI          | Multi-Agent Systems, Agent Orchestration, Workflow Automation  |
-| Generative AI       | LLM Applications, Prompt Engineering, Context Engineering      |
-| RAG Systems         | Semantic Search, Hybrid Retrieval, Knowledge Intelligence      |
-| Vector Databases    | Pinecone, FAISS, ChromaDB, Qdrant                              |
-| Backend Engineering | Python, FastAPI, REST APIs, Async Programming                  |
-| Cloud & DevOps      | AWS, Docker, GitHub Actions, CI/CD                             |
-| Enterprise AI       | AI Automation, Intelligent Workflows, Decision Support Systems |
+A real-time computer vision application that performs object detection and edge analytics using YOLO and OpenCV. Built to demonstrate low-latency AI inference on edge devices with an interactive dashboard for monitoring detections.
 
----
+**Key Highlights**
+- Real-time Object Detection
+- Edge AI Inference
+- Computer Vision
+- Interactive Dashboard
+- Live Video Analytics
 
-# Current Focus (2026)
+**Tech Stack:** YOLOv8 • OpenCV • Streamlit • Python
 
-✅ Enterprise Agentic AI Systems
-
-✅ Multi-Agent Architectures
-
-✅ Enterprise RAG Platforms
-
-✅ AI Workflow Automation
-
-✅ Model Context Protocol (MCP)
-
-✅ LLMOps
-
-✅ AI Evaluation Frameworks
-
-✅ Enterprise AI Governance
+**Repository:**  
+https://github.com/imarpitajaiswal/iot-edge-analytics
 
 ---
 
-# Professional Interests
+## 💻 Core Technologies
 
-* Enterprise AI Engineering
-* Generative AI Consulting
-* Intelligent Automation
-* AI Product Development
-* Enterprise Architecture
-* Multi-Agent Systems
-* AI Transformation Initiatives
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### AI & Machine Learning
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
+
+### Generative AI
+- OpenAI
+- Google Gemini
+- LangChain
+- LangGraph
+- LlamaIndex
+
+</td>
+
+<td valign="top" width="50%">
+
+### RAG & Search
+- Pinecone
+- FAISS
+- ChromaDB
+- Qdrant
+
+### Backend & Cloud
+- FastAPI
+- Flask
+- Docker
+- AWS
+- GitHub Actions
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Connect With Me
+## 🎯 Current Focus
 
-### LinkedIn
+I'm continuously expanding my expertise in enterprise AI systems and modern LLM engineering, with a strong emphasis on building production-ready applications.
 
-https://www.linkedin.com/in/imarpitajaiswal
+- 🤖 Designing **Multi-Agent AI Systems** using LangGraph and Agentic AI workflows
 
-### X (Twitter)
+- 📚 Building **Retrieval-Augmented Generation (RAG)** applications for enterprise knowledge retrieval
 
-https://x.com/imarpitajaiswal
+- 🔗 Exploring the **Model Context Protocol (MCP)** ecosystem for interoperable AI agents
 
-### GitHub
+- ⚙️ Implementing **LLMOps** practices for deployment, monitoring, and evaluation
 
-https://github.com/imarpitajaiswal
+- 📄 Developing **Document Intelligence** solutions powered by OCR, semantic search, and Large Language Models
 
-### Portfolio
+- 🌍 Building **Multilingual AI** applications using embeddings and vector search
 
-https://arpita-portfolio-puce.vercel.app
-
-### Email
-
-[jaiswalarpita222@gmail.com](mailto:jaiswalarpita222@gmail.com)
+- ☁️ Creating scalable AI backends with **FastAPI**, **Docker**, and cloud-native development practices
 
 ---
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <strong>
-    Designing Enterprise AI Systems • Building Agentic Workflows • Creating Business Impact Through AI
-  </strong>
+  <a href="https://www.linkedin.com/in/imarpitajaiswal">LinkedIn</a> •
+  <a href="https://github.com/imarpitajaiswal">GitHub</a> •
+  <a href="https://arpita-portfolio-puce.vercel.app">Portfolio</a> •
+  <a href="https://medium.com/@imarpitajaiswal">Medium</a> •
+  <a href="https://x.com/imarpitajaiswal">X</a> •
+  <a href="mailto:jaiswalarpita222@gmail.com">Email</a>
+</p>
+
+<p align="center">
+Building practical AI applications using <b>Generative AI</b>, <b>Machine Learning</b>, and <b>modern software engineering</b>.
 </p>
